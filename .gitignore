@@ -3,3 +3,4 @@ token.json
 .env
 __pycache__/
 *.pyc
+gmail_list.txt
